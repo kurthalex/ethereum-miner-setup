@@ -37,4 +37,5 @@ F2 bios
 F11 boot  
 Ensure that graphics come from motherboard in the bios (North bridge/choose motherboard instead of PCI express)  
 
-
+**Issues**
+If the DAG is loaded but it freeze, reboot!
