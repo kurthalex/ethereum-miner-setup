@@ -4,4 +4,4 @@ sudo apt-get -y install vim wget curl git terminator htop xorg xfce4 xdm fglrx-u
 wget wget http://ethpool.org/downloads/qtminer_1504.tgz
 tar zxvf qtminer_1504.tgz
 sudo chmod +x qtminer.sh
-sudo reboot now
+sudo reboot
