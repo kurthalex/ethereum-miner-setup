@@ -31,9 +31,10 @@ Plug all yout GPUs and power on
  
 If you see a lot of MH/s, you win !
 
-**Note for Asrock Pro BTC 61**
-F2 bios
-F11 boot
-Ensure that graphics come from motherboard in the bios (North bridge/choose motherboard instead of PCI express)
+**Note for Asrock Pro BTC 61**  
+
+F2 bios  
+F11 boot  
+Ensure that graphics come from motherboard in the bios (North bridge/choose motherboard instead of PCI express)  
 
 
