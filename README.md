@@ -20,7 +20,7 @@ Then, when you see some MH/s CTRL+C and launch the command with your own address
 
 If it works:  
 
-    sudo reboot  
+    sudo shutdown now  
 
 Plug all yout GPUs and power on  
 
